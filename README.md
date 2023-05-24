@@ -28,4 +28,4 @@ This geo-visualization application is prepared to comply with the following requ
 
 ### Sample view of the application
 
-![image](https://github.com/OpenGeoHub/shiny-geovisualization/assets/34002197/a19b486c-efb6-44f9-8e5a-6e804e0302d2)
+![screenshot](https://github.com/OpenGeoHub/GB_tickprobability/assets/34002197/a5364733-e1f3-4105-ae78-746fff28063c)
