@@ -10,4 +10,11 @@ This geo-visualization application is prepared to comply with the following requ
 - Visualise the zonal statistics of the intersected area that is selected from the Polygon layer on a click event and COGs.
 - Display the stats of the selected area in table format.
 
+* To be able to run the project, you need to run the following command from R Console;
+
+  **shiny::runApp()**
+  
+  
+
+
 ![image](https://github.com/OpenGeoHub/shiny-geovisualization/assets/34002197/a19b486c-efb6-44f9-8e5a-6e804e0302d2)
